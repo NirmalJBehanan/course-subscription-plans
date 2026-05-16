@@ -1,16 +1,37 @@
-# React + Vite
+# Course Subscription Plans
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive pricing cards UI built using React that showcases different subscription plans with pricing, feature availability, and a modern clean design.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://course-subscription-fee.netlify.app/  
+💻 GitHub Repository: https://github.com/NirmalJBehanan/course-subscription-plans
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
+- Responsive pricing cards
+- Dynamic rendering using `map()`
+- Feature availability indicators
+- Reusable React components
+- Modern UI design
+- Mobile responsive layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
+- React
+- JavaScript
+- CSS3
+- Font Awesome
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/NirmalJBehanan/course-subscription-plans.git
+
+cd course-subscription-plans
+
+npm install
+
+npm run dev
